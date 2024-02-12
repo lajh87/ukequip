@@ -1,0 +1,26 @@
+{
+    "id": "B642F06D",
+    "path": "~/git/uk-equipment/data-raw/uk-2011.R",
+    "project_path": "data-raw/uk-2011.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1707470882169.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "21,16",
+        "scrollLine": "11"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1707472554,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1707727317753,
+    "read_only": false,
+    "read_only_alternatives": []
+}

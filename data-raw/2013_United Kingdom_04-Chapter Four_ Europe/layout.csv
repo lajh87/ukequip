@@ -1,0 +1,264 @@
+'Page number,'Layout,'Text,'Reading Order,'Confidence score % (Layout)
+'1,'Header 1,"'186 THE MILITARY BALANCE 2013",'0,'53.32031250
+'1,'Text 1,"'AFGHANISTAN",'1,'56.39648438
+'1,'Text 2,"'NATO ISAF 1,328; 1 inf bde HQ; 2 inf bn UN UNAMA 1 obs",'2,'84.47265625
+'1,'Text 3,"'ARABIAN SEA & GULF OF ADEN Combined Maritime Forces CTF-151: 1 FFGHM",'3,'60.00976563
+'1,'Text 4,"'BOSNIA-HERZEGOVINA",'4,'57.47070313
+'1,'Text 5,"'EU EUFOR Operation Althea 288; 1 inf coy",'5,'65.03906250
+'1,'Text 6,"'CYPRUS (NORTHERN)",'6,'45.43457031
+'1,'Text 7,"'Army 43,000 1 army corps HQ; 1 armd bde; 2 mech inf div; 1 avn comd; 8 M-48A2 training; 340 M48A5T1/T2; 361 AAPC (incl variants); 266 M113 (incl variants); (towed arty) 102: 105mm 72 M101A1; 155mm 18 M114A2; 203mm 12 M115; (SP) 155mm 90 M-44T; (MRL) 122mm 6 T-122; (MOR) 450: 81mm 175; 107mm 148 M-30; 120mm 127 HY-12; (AT MSL) 114: 66 Milan; 48 TOW; (RCL) 106mm 192 M40A1; 90mm M67; (AD towed) 20mm Rh 202; 35mm GDF 16 GDF-003; 40mm 48 M1; 3 Cessna 185 (U-17) ac; 1 AS532UL Cougar; 3 UH-1H Iroquois hel; 1 PB",'7,'94.92187500
+'1,'Text 8,"'LEBANON",'8,'45.70312500
+'1,'Text 9,"'UN UNIFIL 452; 1 engr coy; 1 FFGH",'9,'77.53906250
+'1,'Text 10,"'MEDITERRANEAN SEA",'10,'61.96289063
+'1,'Text 11,"'NATO Operation Active Endeavour 1 FFGHM NATO SNMCMG 2: 1 MHO",'11,'30.66406250
+'1,'Text 12,"'SERBIA",'12,'45.99609375
+'1,'Text 13,"'NATO KFOR 402; 1 inf coy; elm 1 MP coy UN UNMIK 1 obs",'13,'84.42382813
+'1,'Section header 1,"'FOREIGN FORCES",'14,'66.21093750
+'1,'Text 14,"'United States US European Command: 1,500; 4 MQ-1B Predator UAV at Incirlik; 1 spt facility at Izmir; 1 spt facility at Ankara; 1 air base at Incirlik US Strategic Command: 1 Spacetrack Radar at Incirlik",'15,'95.89843750
+'1,'Text 15,"'United Kingdom UK",'16,'50.19531250
+'1,'Table 1,"",'17,'94.48242188
+'1,'Text 16,"'a Net Cash Requirement figures. These will differ from official figures based on Resource Accounting & Budgeting. Excludes military pensions covered by the Armed Forces Pension Scheme (AFPS) and the Armed Forces Compensation Scheme (AFCS).",'18,'83.69140625
+'1,'Text 17,"'b NATO definition",'19,'54.00390625
+'1,'Text 18,"'Population 63,047,162",'20,'82.86132813
+'1,'Table 2,"",'21,'92.57812500
+'1,'Section header 2,"'Capabilities",'22,'46.28906250
+'1,'Text 19,"'Many RN and RAF capabilities have reduced by 20-30% as a result of cuts made in the 2010 Strategic Defence and Security Review. Some cuts, such as maritime patrol air- craft and NBC reconnaissance, reduce the overall flex- ibility of British forces whilst increasing their dependence on NATO and multinational partners. A new Joint Forces Command has taken over strategic intelligence, special forces and other joint strategic capabilities. The Army 2020 programme will likewise reduce the regular Brit- ish Army's overall capability by 20-30% by 2018 and will greatly increase dependence on reserves. It does, how- ever, retain many of the capabilities specially developed for Iraq and Afghanistan. Although the government has stated an aspiration to rebuild capability after 2015, it is not clear that this can be afforded. Indeed, unless the UK economy improves, sustaining existing capability may prove problematic, particularly if equipment or person- nel costs increase beyond current planning assumptions. The regeneration of a capability for contingency operations is planned as force levels in Afghanistan reduce. This has begun with amphibious, air-assault and naval-reaction forces. In the longer term, although the size of the forces has reduced, MoD is still funding some ambitious mod- ernisation programmes for all three services. Overall, the UK armed forces maintain a high standard of training, but the combination of a redundancy programme and new constraints on pay, allowances and pensions could trigger an outflow of experienced staff.",'23,'93.84765625
+'2,'Header 2,"'Europe 187",'24,'47.46093750
+'2,'Text 20,"'ACTIVE 165,650 (Army 96,850, Navy 32,000 Air 36,800)",'25,'60.83984375
+'2,'Text 21,"'RESERVE 80,550 (Regular Reserve e51,000 (incl 4,850 RAF); Volunteer Reserve 30,550 (Army 26,650; Navy 2,550; Air 1,350)",'26,'60.74218750
+'2,'Text 22,"'Includes both trained and those currently under training within the Regular Forces, excluding university cadet units.",'27,'50.09765625
+'2,'Title 1,"'ORGANISATIONS BY SERVICE",'28,'43.21289063
+'2,'Section header 3,"'Strategic Forces 1,000",'29,'58.69140625
+'2,'Section header 4,"'Armed Forces",'30,'43.87207031
+'2,'Text 23,"'RADAR STRATEGIC 1 Ballistic Missile Early Warning System BMEWS at Fylingdales Moor",'31,'92.67578125
+'2,'Section header 5,"'Royal Navy",'32,'41.30859375
+'2,'Text 24,"'SUBMARINES STRATEGIC SSBN 4:",'33,'46.87500000
+'2,'List 1,"",'34,'47.75390625
+'2,'Text 25 - Part of List 1,"'4 Vanguard with 4 533mm TT with Spearfish HWT, up to 16 UGM-133A Trident D-5 SLBM (Each boat will not deploy with more than 48 warheads, but each missile could carry up to 12 MIRV, some Trident D-5 capable of being configured for sub-strategic role)",'35,'79.39453125
+'2,'Text 26 - Part of List 1,"'MSL STRATEGIC 48 SLBM (Fewer than 160 declared operational warheads)",'36,'69.43359375
+'2,'Section header 6,"'Space",'37,'46.77734375
+'2,'Text 27,"'SATELLITES COMMUNICATIONS 7: 1 NATO-4B; 3 Skynet-4; 3 Skynet-5",'38,'88.42773438
+'2,'Text 28,"'Army 93,350; 3,500 Gurkhas (total 96,850)",'39,'40.35644531
+'2,'Text 29,"'Regt normally bn size",'40,'66.65039063
+'2,'Section header 7,"'FORCES BY ROLE",'41,'38.50097656
+'2,'Text 30,"'COMMAND",'42,'99.92034912
+'2,'Text 31,"'1 (ARRC) corps HQ (1 sigs bde)",'43,'51.07421875
+'2,'Section header 8,"'MANOEUVRE",'44,'49.02343750
+'2,'Text 32,"'Armoured",'45,'31.78710938
+'2,'Text 33,"'1 (1st) armd div (2 (7th & 20th) armd bde (1 armd regt, 1 recce regt, 2 armd inf bn, 1 It inf bn, 1 sigs sqn); 1 cbt spt gp (3 SP arty regt, 1 AD regt, 3 cbt engr regt, 1 ptn br regt, 1 MP regt, 2 log regt, 2 maint regt, 2 med regt); 1 sigs regt)",'46,'65.23437500
+'2,'Text 34,"'Mechanised",'47,'34.25292969
+'2,'Text 35,"'1 (3rd) div (1 (1st) mech bde (1 armd regt, 1 armd recce regt, 1 armd inf bn, 1 mech inf bn, 2 It inf bn, 1 sigs sqn); 1 (4th) mech bde (1 armd regt, 1 recce regt, 1 armd inf bn, 1 mech inf bn, 2 It inf bn, 1 (Gurkha) It inf bn, 1 sigs sqn); 1 (12th) mech bde (1 armd regt, 1 recce regt, 1 armd inf bn, 1 mech inf bn, 3 It inf bn, 1 sigs sqn); 1 (19th) It inf bde (4 It inf bn, 1 sigs sqn); 1 cbt spt gp (2 SP arty regt, 1 arty regt, 3 cbt engr regt, 2 engr regt, 1 MP regt, 3 log regt, 3 med regt); 1 sigs regt) Light 5 It inf bn (3 in London, 2 in Cyprus); 1 (Gurkha) It inf bn (Brunei)",'48,'48.43750000
+'2,'Text 36,"'Other",'49,'37.52441406
+'2,'Text 37,"'1 trg BG (based on 1 armd inf bn)",'50,'50.39062500
+'2,'Section header 9,"'COMBAT SUPPORT",'51,'51.46484375
+'2,'List 2,"",'52,'42.43164063
+'2,'Text 38 - Part of List 2,"'1 arty bde (1 UAV regt, 1 STA regt, 1 MRL regt)",'53,'81.10351563
+'2,'Text 39 - Part of List 2,"'1 (opcon RAF) AD bde (1 AD regt)",'54,'66.99218750
+'2,'Text 40 - Part of List 2,"'1 engr bde (3 EOD regt, 1 air spt bn)",'55,'72.50976563
+'2,'Text 41 - Part of List 2,"'1 int bde",'56,'70.50781250
+'2,'Text 42 - Part of List 2,"'1 sigs bde",'57,'74.90234375
+'2,'Section header 10,"'COMBAT SERVICE SUPPORT",'58,'56.10351563
+'2,'List 3,"",'59,'37.93945313
+'2,'Text 43 - Part of List 3,"'3 log bde",'60,'84.27734375
+'2,'Text 44 - Part of List 3,"'7 log regt",'61,'83.39843750
+'2,'Text 45 - Part of List 3,"'7 maint bn",'62,'85.44921875
+'2,'Text 46 - Part of List 3,"'1 med bde (3 bn)",'63,'81.10351563
+'2,'Text 47,"'Home Service Forces Gibraltar 200",'64,'68.66593170
+'2,'Text 48,"'reservists; 150 active reservists (total 350)",'65,'34.30175781
+'2,'Section header 11,"'Reserves",'66,'80.17578125
+'2,'Section header 12,"'Territorial Army 26,650 reservists",'67,'36.47460938
+'2,'Text 49,"'The Territorial Army generates individuals, sub-units and some full units.",'68,'86.42578125
+'2,'Section header 13,"'FORCES BY ROLE",'69,'53.22265625
+'2,'Section header 14,"'MANOEUVRE",'70,'48.14453125
+'2,'List 4,"",'71,'31.32324219
+'2,'Text 50 - Part of List 4,"'Reconnaissance",'72,'90.18554688
+'2,'Text 51 - Part of List 4,"'2 recce regt",'73,'88.57421875
+'2,'Text 52 - Part of List 4,"'Armoured",'74,'87.25585938
+'2,'Text 53 - Part of List 4,"'2 armd regt",'75,'93.16406250
+'2,'Text 54 - Part of List 4,"'Light",'76,'90.72265625
+'2,'Text 55 - Part of List 4,"'13 It inf bn",'77,'93.45703125
+'2,'Text 56 - Part of List 4,"'Air Manoeuvre",'78,'91.69921875
+'2,'Text 57 - Part of List 4,"'1 para bn",'79,'94.38476563
+'2,'Text 58 - Part of List 4,"'Aviation",'80,'91.60156250
+'2,'Text 59 - Part of List 4,"'1 UAV regt",'81,'92.18750000
+'2,'Text 60 - Part of List 4,"'COMBAT SUPPORT",'82,'40.30761719
+'2,'Text 61 - Part of List 4,"'3 arty regt",'83,'93.50585938
+'2,'Text 62 - Part of List 4,"'1 STA regt",'84,'92.77343750
+'2,'Text 63 - Part of List 4,"'1 MRL regt",'85,'91.94335938
+'2,'Text 64 - Part of List 4,"'1 AD regt",'86,'92.23632813
+'2,'Text 65 - Part of List 4,"'5 engr regt; 1 engr sqn; 1 (cdo) engr sqn",'87,'88.96484375
+'2,'Text 66 - Part of List 4,"'2 EOD regt",'88,'90.91796875
+'2,'Text 67 - Part of List 4,"'5 sigs regt",'89,'91.74804688
+'2,'Section header 15,"'COMBAT SERVICE SUPPORT",'90,'48.73046875
+'2,'Text 68,"'17 log regt",'91,'89.84375000
+'2,'Section header 16,"'EQUIPMENT BY TYPE",'92,'55.37109375
+'2,'Text 69,"'2 maint bn",'93,'81.34765625
+'2,'Text 70,"'MBT 227 Challenger 2",'94,'71.87500000
+'2,'Text 71,"'RECCE 727: 150 Jackal; 110 Jackal 2; 140 Jackal 2A; 327",'95,'52.05078125
+'2,'Text 72,"'Scimitar; (8 Tpz-1 Fuchs in store)",'96,'33.27636719
+'2,'Text 73,"'AIFV 526 Warrior",'97,'60.74218750
+'2,'Text 74,"'APC 1,936",'98,'62.15820313
+'2,'Text 75,"'APC (T) 1,050: 541 Bulldog Mk3; 394 FV103 Spartan; 115 Warthog PPV 886: 300 Foxhound; 304 Mastiff (6x6); 157 Ridgback; 125 Wolfhound (6x6)",'99,'30.37109375
+'2,'Text 76,"'ARTY 621",'100,'50.00000000
+'2,'Text 77,"'SP 155mm 89 AS90 Braveheart",'101,'59.08203125
+'2,'Text 78,"'TOWED 105mm 126 L118 Light gun",'102,'57.76367188
+'2,'Text 79,"'MRL 227mm 35 M270 MLRS/GMLRS",'103,'64.16015625
+'2,'Text 80,"'MOR 371: 81mm SP 11; 81mm 360",'104,'65.77148438
+'2,'Text 81,"'AT MSL MANPATS Javelin",'105,'64.79492188
+'2,'Text 82,"'AD SAM 70",'106,'50.39062500
+'2,'Text 83,"'SP 32 FV4333 Stormer",'107,'50.87890625
+'3,'Header 3,"'188 THE MILITARY BALANCE 2013",'108,'34.59472656
+'3,'Section header 17,"'TOWED 14 Rapier FSC",'109,'29.61425781
+'3,'Text 84,"'MANPAD 24 Starstreak (LML) AEV 33+: some Terrier; 33 Trojan ARV 256: 75 CRARRV; 4 Samson; 177 Warrior ARRV MW 94: 64 Aardvark; 30 M139 VLB 71: 38 M3; 33 Titan RADAR LAND 150: 5-7 Cobra (to be withdrawn 2012); 4 Mamba; 139 MSTAR UAV ISR Medium 10 Hermes 450; Watchkeeper (in test - ISD delayed) AMPHIBIOUS 6 LCVP LOGISTICS AND SUPPORT 5 RCL",'110,'89.40429688
+'3,'Section header 18,"'Royal Navy 32,000",'111,'36.03515625
+'3,'Text 85,"'EQUIPMENT BY TYPE",'112,'32.20214844
+'3,'Section header 19,"'SUBMARINES 11",'113,'35.35156250
+'3,'Section header 20,"'STRATEGIC SSBN 4:",'114,'30.24902344
+'3,'Text 86,"'4 Vanguard, opcon Strategic Forces with up to 16 UGM- 133A Trident D-5 SLBM, 4 single 533mm TT each with Spearfish HWT, (each boat will not deploy with more than 40 warheads, but each missile could carry up to 12 MIRV; some Trident D-5 capable of being configured for sub strategic role)",'115,'37.98828125
+'3,'Text 87,"'TACTICAL SSN 6:",'116,'26.97753906
+'3,'Text 88,"'5 Trafalgar with 5 single 533mm TT with Spearfish HWT/Tomahawk tactical LACM/UGM 84 Harpoon AShM 1 Astute with 6 single 533mm TT with Spearfish HWT/ UGM-84 Harpoon AShM/Tomahawk tactical LACM (4 additional vessels in build; 2 additional vessels on order)",'117,'31.56738281
+'3,'Section header 21,"'PRINCIPAL SURFACE COMBATANTS 18",'118,'32.29980469
+'3,'Text 89,"'DESTROYERS DDHM 5:",'119,'30.90820313
+'3,'List 5,"",'120,'35.79101563
+'3,'Text 90 - Part of List 5,"'4 Daring (Type-45) with 1 48-cell VLS with Sea Viper SAM, 1 114mm gun, (capacity 1 Lynx/AW101 Merlin hel - 2 additional vessels in trials)",'121,'33.20312500
+'3,'Text 91 - Part of List 5,"'1 Sheffield (Type-42 Batch 3) with 1 twin Inchr with Sea Dart SAM, 1 114mm gun, (capacity 1 Lynx hel)",'122,'34.54589844
+'3,'Text 92,"'FRIGATES FFGHM 13:",'123,'34.69238281
+'3,'Text 93,"'13 Norfolk (Type-23) with 2 quad Mk141 Inchr with RGM-84C Harpoon AShM, 1 32-cell VLS with Sea Wolf SAM, 2 twin 324mm ASTT with Sting Ray LWT, 1 114mm gun, (capacity either 2 Lynx or 1 AW101 Merlin hel)",'124,'37.20703125
+'3,'Title 2,"'PATROL AND COASTAL COMBATANTS 22",'125,'30.98144531
+'3,'Text 94,"'PSO 4: 3 River; 1 River (mod) with 1 hel landing platform",'126,'39.23339844
+'3,'Text 95,"'PB 18: 16 Archer (trg); 2 Scimitar",'127,'34.20410156
+'3,'Section header 22,"'MINE WARFARE MINE COUNTERMEASURES 16:",'128,'32.71484375
+'3,'Text 96,"'MCO 8 Hunt (incl 4 mod Hunt)",'129,'38.98925781
+'3,'Text 97,"'MHC 8 Sandown (1 decommissioned and used in trg role)",'130,'35.57128906
+'3,'Text 98,"'AMPHIBIOUS",'131,'32.20214844
+'3,'Text 99,"'PRINCIPAL AMPHIBIOUS SHIPS 4:",'132,'32.12890625
+'3,'Text 100,"'LPD 2 Albion (capacity 2 med hel; 4 LCVP; 6 MBT; 300 troops) (1 at extended readiness)",'133,'35.30273438
+'3,'Text 101,"'LPH 2:",'134,'38.96484375
+'3,'Text 102,"'LOGISTICS AND SUPPORT 10",'135,'34.76562500
+'3,'Text 103,"'1 Ocean (capacity 18 hel; 4 LCU or 2 LCAC; 4 LCVP; 800 troops)",'136,'35.88867188
+'3,'Text 104,"'LANDING CRAFT 37: 10 LCU; 23 LCVP; 4 LCAC",'137,'38.45214844
+'3,'Text 105,"'1 Invincible (capacity 22 hel; 600 troops)",'138,'32.00683594
+'3,'Text 106,"'AGB 1 Protector (NOR Polarbjorn, chartered for three years from April 2011) with 1 hel landing platform AGS 3: 1 Scott; 2 Echo (all with 1 hel landing platform) YGS 6: 1 Gleaner; 5 Nesbitt",'139,'66.89453125
+'3,'Text 107,"'Royal Fleet Auxiliary",'140,'33.81347656
+'3,'Text 108,"'Support and Miscellaneous vessels are mostly manned and maintained by the Royal Fleet Auxiliary (RFA), a civilian fleet owned by the UK MoD, which has approximately 2,500 personnel with type comd under CINCFLEET.",'141,'49.90234375
+'3,'Text 109,"'AMPHIBIOUS PRINCIPAL AMPHIBIOUS SHIPS 3 LSD 3 Bay (capacity 4 LCU; 2 LCVP; 24 CR2 Challenger 2 MBT; 350 troops) AORH 3: 2 Wave; 1 Fort Victoria AOR 1 Leaf AORLH 2 Rover AFSH 2 Fort Rosalie ARH 1 Diligence AG 1 Argus (aviation trg ship with secondary role as primarily casualty receiving ship) AKR 6 Point (not RFA manned)",'142,'31.90917969
+'3,'Section header 23,"'LOGISTICS AND SUPPORT 16",'143,'25.34179688
+'3,'Text 110,"'ANTI-SUBMARINE WARFARE 3 sqn with AW101 ASW Merlin (HM1) 1 sqn with Lynx HAS3/HMA8 1 flt with Lynx HAS3 3 sqn with Sea King AEW7 SEARCH & RESCUE 1 sqn (and detached flt) with Sea King HU5 TRAINING 1 sqn with Beech 350ER King Air 1 sqn with G-115 (op under contract) 1 OCU sqn with AW101 ASW Merlin (HM1) 1 sqn with Lynx HAS3 AIRCRAFT 12 combat capable TPT Light 4 Beech 350ER King Air TRG 17: 5 G-115 (op under contract); 12 Hawk T1* ASW 88: 13 Lynx HAS3; 33 Lynx HMA8; 42 AW101 ASW Merlin (HM1/2) AEW 13 Sea King AEW Mk7 TPT Medium 16 Sea King HU Mk5 MSL AShM Sea Skua",'144,'38.67187500
+'3,'Section header 24,"'Naval Aviation (Fleet Air Arm) 5,520",'145,'28.58886719
+'3,'Section header 25,"'FORCES BY ROLE",'146,'27.66113281
+'3,'Section header 26,"'AIRBORNE EARLY WARNING",'147,'26.63574219
+'3,'Section header 27,"'Royal Marines 6,850",'148,'33.81347656
+'3,'Text 111,"'FORCES BY ROLE",'149,'31.10351563
+'3,'List 6,"",'150,'46.67968750
+'3,'Text 112 - Part of List 6,"'1 (3rd Cdo) mne bde (1 ISTAR gp (1 EW sqn; 1 cbt spt",'151,'99.94764709
+'3,'Text 113 - Part of List 6,"'sqn; 1 sigs sqn; 1 log sqn), 3 cdo; 1 (army) It inf bn;",'152,'99.97332764
+'3,'Text 114 - Part of List 6,"'1 amph aslt sqn; 1 (army) arty regt; 1 (army) engr",'153,'99.97225189
+'3,'Text 115 - Part of List 6,"'regt; 1 log regt)",'154,'99.98059845
+'3,'Text 116 - Part of List 6,"'3 landing craft sqn opcon Royal Navy",'155,'33.32519531
+'3,'Text 117,"'MANOEUVRE",'156,'32.54394531
+'3,'Section header 28,"'EQUIPMENT BY TYPE",'157,'33.42285156
+'3,'Text 118,"'Amphibious",'158,'28.22265625
+'3,'Section header 29,"'HELICOPTERS",'159,'36.98730469
+'4,'Header 4,"'Europe 189",'160,'36.47460938
+'4,'Text 119,"'Other 1 Fleet Protestion sy gp EQUIPMENT BY TYPE APC (T) 142: 118 BvS-10 Viking; 24 BvS-10 Mk2 Viking ARTY 50 TOWED 105mm 18 L-118 MOR 81mm 32 AT MSL MANPATS Javelin AMPHIBIOUS LANDING CRAFT LCAC 4 Griffon 2400TD AD SAM HVM RADAR LAND 4 MAMBA (Arthur)",'161,'59.17968750
+'4,'Title 3,"'Royal Marines Reserve 600",'162,'61.76757813
+'4,'Section header 30,"'Royal Air Force 36,800",'163,'26.02539063
+'4,'Table 3,"",'164,'63.86718750
+'4,'Text 120,"'ISR 10: 5 Beech 350 Shadow R1; Sentinel R1 (Option to be withdrawn from role post-Afghanistan) AEW&C 6 E-3D Sentry TKR/TPT 15: 1 A330 Voyager; 1 Tristar K1; 4 Tristar KC1; 4 VC-10C1K; 4 VC-10K3; 1 VC-10K4 TPT 67: Heavy 8 C-17A Globemaster; Medium 32: 10 C-130J Hercules; 14 C-130J-30 Hercules; 3 C-130K Hercules; 5 C-130K-30 Hercules; Light 14: 8 Beech 200 King Air (on lease); 3 Beech 200GT King Air (on lease); 3 BN-2A Islander CC2; PAX 13: 6 BAe-125 CC-3; 4 BAe-146 MkII; 2 Tristar C2; 1 Tristar C2A TRG 375: 91 EMB-312 Tucano T1; 101 G-115E Tutor; 28 Hawk 128*; 60 Hawk T1/1A/1W* (&60 more in store); 38 T67M/M260 Firefly",'165,'41.87011719
+'4,'Text 121,"'HELICOPTERS",'166,'99.97638702
+'4,'Table 4,"",'167,'28.54003906
+'4,'Text 122,"'Tri-Service Defence Helicopter School",'168,'99.96236420
+'4,'Text 123,"'HELICOPTERS",'169,'99.91182709
+'4,'Text 124,"'MRH 11 Bell 412EP Griffin HT1",'170,'99.96224976
+'4,'Text 125,"'TPT",'171,'99.83981323
+'4,'Text 126,"'Light 27: 25 AS350B Ecureuil; 2 AW109E",'172,'99.86144257
+'4,'Text 127,"'Volunteer Reserve Air Forces",'173,'99.96054840
+'4,'Text 128,"'(Royal Auxiliary Air Force/RAF Reserve) MANOEUVRE Other 5 field sqn COMBAT SUPPORT 2 int sqn COMBAT SERVICE SUPPORT 1 med sqn 1 (air movements) sqn 1 (HQ augmentation) sqn 1 (C-130 Reserve Aircrew) flt",'174,'26.39160156
+'5,'Header 5,"'190 THE MILITARY BALANCE 2013",'175,'38.30566406
+'5,'Title 4,"'Joint Helicopter Command Includes Army, Royal Navy and RAF units",'176,'32.25097656
+'5,'Table 5,"",'177,'33.93554688
+'5,'Text 129,"'HELICOPTERS",'178,'44.45800781
+'5,'Text 130,"'ATK 66 AH-64D Apache MRH 95:5 AS365N3; 49 Lynx AH7; 22 Lynx AH9A; 19 SA341 Gazelle",'179,'61.96289063
+'5,'Text 131,"'TPT 155: Heavy 46: 24 CH-47 (HC2/4) Chinook; 14 CH-47 (HC2A/4A) Chinook; 8 CH-47 (HC3) Chinook; Medium 101: 28 AW101 Merlin (HC3/3A); 34 SA330 Puma (HC1) (24 be- ing upgraded to HC2 standard); 37 Sea King (HC4); Light 17: 9 AS350B Ecureuil; 8 Bell 212",'180,'69.33593750
+'5,'Section header 31,"'DEPLOYMENT",'181,'34.74121094
+'5,'Section header 32,"'UK Special Forces",'182,'35.13183594
+'5,'Text 132,"'Includes Army, Royal Navy and RAF units",'183,'41.57714844
+'5,'Text 133,"'Legal provisions for foreign deployment:",'184,'42.82226563
+'5,'Text 134,"'Constitution: Uncodified constitution which includes constitutional statutes, case law, international treaties and unwritten conventions",'185,'77.24609375
+'5,'Text 135,"'Decision on deployment of troops abroad: By the government",'186,'63.08593750
+'5,'Section header 33,"'FORCES BY ROLE",'187,'34.69238281
+'5,'Text 136,"'The Office of Cyber Security & Information Assurance works with the Cyber Security Operations Centre and ministries and agencies to implement cyber-security pro- grammes. CSOC is hosted by GCHQ and was also estab- lished in 2009. The UK's October 2010 Strategic Defence and Security Review said that the country would 'establish a transformative national programme to protect ourselves in cyber space'. This 'National Cyber Security Programme' is supported by some £650m - with programme manage- ment by OSCIA - and led to a new Cyber Security Strategy, published in November 2011. A UK Defence Cyber Opera- tions Group was set up in 2011 to place 'cyber at the heart of defence operations, doctrine and training'. This group was transferred to Joint Forces Command on this forma- tion's establishment in April 2012.",'188,'65.57617188
+'5,'Text 137,"'SPECIAL FORCES",'189,'28.24707031
+'5,'Text 138,"'AFGHANISTAN",'190,'54.10156250
+'5,'Text 139,"'1 (SAS) SF regt",'191,'26.39160156
+'5,'Text 140,"'1 (SBS) SF regt",'192,'34.76562500
+'5,'Section header 34,"'Cyber",'193,'38.50097656
+'5,'List 7,"",'194,'25.68359375
+'5,'Text 141 - Part of List 7,"'NATO ISAF 9,500;",'195,'43.50585938
+'5,'Text 142 - Part of List 7,"'Army: 1 (4th) mech bde (1 recce regt, 1 armd regt, 5 inf bn, 1 cdo bn, 1 arty regt; 1 engr regt); Jackal; Scimitar; Warrior; Spartan; Mastiff; Ridgback; Warthog Wolfhound; L-118; GMLRS; AH-64D Apache; Lynx; Hermes 450",'196,'62.45117188
+'5,'Text 143 - Part of List 7,"'Royal Navy: Sea King HC Mk4",'197,'49.02343750
+'5,'Text 144 - Part of List 7,"'Air Force: Tornado GR4/GR4A; C-130 Hercules; CH-47 Chinook; HC Mk3 Merlin; Beech King Air 350 Shadow R1; MQ-9 Reaper",'198,'78.07617188
+'5,'Text 145,"'MANOEUVRE",'199,'36.05957031
+'5,'Text 146,"'1 (Special Reconnaissance) SF regt",'200,'40.03906250
+'5,'Text 147,"'Aviation",'201,'37.67089844
+'5,'Text 148,"'1 wg (includes assets drawn from 2 army avn sqn, 1 army hel flt, 1 RAF tpt sqn and 1 RAF hel sqn)",'202,'35.18066406
+'5,'Text 149,"'1 SF spt gp (based on 1 para bn)",'203,'44.36035156
+'5,'Text 150,"'Reserve FORCES BY ROLE SPECIAL FORCES 2 (SAS) SF regt",'204,'34.86328125
+'5,'Text 151,"'COMBAT SUPPORT",'205,'34.08203125
+'5,'Text 152,"'1 sigs regt",'206,'44.06738281
+'5,'Text 153,"'ARABIAN SEA & GULF OF ADEN",'207,'44.16503906
+'5,'Text 154,"'Combined Maritime Forces CTF-150: 1 FFGHM",'208,'38.86718750
+'6,'Header 6,"'Europe 191",'209,'30.66406250
+'6,'Section header 35,"'ARMENIA/AZERBAIJAN",'210,'40.72265625
+'6,'Text 155,"'OSCE Minsk Conference 1",'211,'62.50000000
+'6,'Text 156,"'ASCENSION ISLAND Air Force 20",'212,'65.13671875
+'6,'Text 157,"'ATLANTIC (NORTH)/CARIBBEAN Royal Navy 1 AG",'213,'72.26562500
+'6,'Text 158,"'Navy 40 Air Force 70 some (periodic) AEW det",'214,'64.25781250
+'6,'Text 159,"'ATLANTIC (SOUTH) Royal Navy 1 DDHM",'215,'73.09570313
+'6,'Text 160,"'KENYA Army 170 (trg team)",'216,'61.76757813
+'6,'Text 161,"'BAHRAIN Royal Navy 20; Air Force 1 BAe-125, 1 BAe-146",'217,'84.66796875
+'6,'Text 162,"'BELIZE",'218,'40.20996094
+'6,'Text 163,"'Army 10",'219,'53.61328125
+'6,'Text 164,"'BOSNIA-HERZEGOVINA",'220,'44.94628906
+'6,'Text 165,"'KUWAIT Army 30 (trg team)",'221,'66.65039063
+'6,'Text 166,"'EU EUFOR Operation Althea 4",'222,'68.01757813
+'6,'Figure 1,"",'223,'29.24804688
+'6,'Section header 36,"'BRITISH INDIAN OCEAN TERRITORY",'224,'42.82226563
+'6,'Text 167,"'Royal Navy 40; 1 Navy/Marine party at Diego Garcia",'225,'83.74023438
+'6,'Section header 37,"'BRUNEI",'226,'29.17480469
+'6,'Text 168,"'Army 550; 1 (Gurkha) It inf bn; 1 jungle trg centre; 1 hel flt with 3 Bell 212",'227,'88.23242188
+'6,'Section header 38,"'CANADA",'228,'35.44921875
+'6,'Text 169,"'Army 390; 2 trg units; 1 hel flt with SA341 Gazelle; Royal Navy 10: Air Force 20",'229,'80.56640625
+'6,'Text 170,"'CYPRUS",'230,'34.10644531
+'6,'Text 171,"'NATO SNMCMG 2: 1 MHC",'231,'50.00000000
+'6,'Text 172,"'Army 1,710; 2 inf bn Navy 30 Air Force 880; 1 SAR sqn with 4 Bell 412 Twin Huey; 1 radar (on det) UN UNFICYP 266; 1 inf coy",'232,'85.93750000
+'6,'Section header 39,"'MEDITERRANEAN SEA",'233,'47.85156250
+'6,'Text 173,"'DEMOCRATIC REPUBLIC OF THE CONGO",'234,'42.82226563
+'6,'Text 174,"'EU EUSEC RD Congo 4",'235,'58.30078125
+'6,'Text 175,"'UN MONUSCO 4 obs",'236,'50.48828125
+'6,'Section header 40,"'FALKLAND ISLANDS",'237,'40.45410156
+'6,'Section header 41,"'NEPAL",'238,'39.50195313
+'6,'Text 176,"'Army 420; 1 inf coy (+); 1 AD det with Rapier FSC Navy 420; 1 OPV Air Force 680; 1 ftr flt with 4 Typhoon FGR4; 1 SAR sqn with Sea King HAR-3/3A; 1 tkr/tpt flt with C-130 Hercules; VC-10K3/4",'239,'91.74804688
+'6,'Text 177,"'Army 280 (Gurkha trg org)",'240,'75.34179688
+'6,'Section header 42,"'GERMANY",'241,'47.75390625
+'6,'Text 178,"'Army 16,240; 1 armd div with (2 armd bde); 1 hel regt (2 sqn with Lynx AH-7/9) Navy 40 Air Force 210",'242,'93.45703125
+'6,'Section header 43,"'GIBRALTAR",'243,'53.61328125
+'6,'Text 179,"'Army 300 (incl 175 pers of Gibraltar regt)",'244,'89.69726563
+'6,'Text 180,"'NETHERLANDS Air Force 90",'245,'60.93750000
+'6,'Text 181,"'OMAN Army 30 Royal Navy 20 Air Force 30: 1 Sentinel; 1 Tristar tkr",'246,'89.01367188
+'6,'Section header 44,"'PERSIAN GULF",'247,'42.06542969
+'6,'Text 182,"'Combined Maritime Forces CTF-152: 1 DDHM; 2 MCO; 2 MHC",'248,'50.97656250
+'6,'Text 183,"'QATAR Air Force 4 C-130J",'249,'51.85546875
+'6,'Text 184,"'SERBIA",'250,'48.73046875
+'6,'Text 185,"'NATO KFOR 1",'251,'70.26367188
+'6,'Text 186,"'SIERRA LEONE",'252,'56.10351563
+'6,'Text 187,"'IMATT 21",'253,'55.81054688
+'6,'Text 188,"'SOUTH SUDAN",'254,'50.97656250
+'6,'Text 189,"'UN UNMISS 3; 1 obs",'255,'86.08398438
+'6,'Text 190,"'UGANDA",'256,'51.66015625
+'6,'Text 191,"'EU EUTM 3",'257,'74.21875000
+'6,'Text 192,"'UNITED STATES",'258,'38.50097656
+'6,'Text 193,"'Army/Royal Navy/Air Force 4400",'259,'88.62304688
+'6,'Section header 45,"'FOREIGN FORCES",'260,'50.68359375
+'6,'Text 194,"'United States",'261,'36.66992188
+'6,'Text 195,"'US European Command: 9,300; 1 ftr wg at RAF Lakenheath with (1 ftr sqn with 24 F-15C/D Eagle, 2 ftr sqn with 23 F-15E Strike Eagle); 1 ISR sqn at RAF Mildenhall with OC- 135/RC-135; 1 tkr wg at RAF Mildenhall with 15 KC-135R Stratotanker; 1 Special Ops gp at RAF Mildenhall with 5 MC-130H Combat Talon II; 5 MC-130P Combat Shadow; 1 C-130E Hercules US Strategic Command: 1 Ballistic Missile Early Warning System (BMEWS) at Fylingdales Moor; 1 Spacetrack radar at Fylingdales Moor",'262,'39.13574219
