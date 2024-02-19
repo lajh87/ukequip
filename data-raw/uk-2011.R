@@ -14,8 +14,12 @@ tables <- list.files(d, pattern = "table") |>
       dplyr::slice(1:(which(stringr::str_detect(dplyr::pick(1)[[1]], "Confidence"))-2)) 
     tbl |> dplyr::select(1:(ncol(tbl)-1))
   })
-
 tables
+tables[[8]] |>
+  knitr::kable()
+
+tables[[5]] |>
+  knitr::kable()
 
 layout |>
   janitor::clean_names() |>
