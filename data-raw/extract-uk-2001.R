@@ -93,4 +93,18 @@ land_equipment |>
   dplyr::mutate(text = stringr::str_replace(text, "^([0-9]),([0-9])", "\\1\\2")) |>
   dplyr::mutate(text = stringr::str_split(text, ";|,|:")) |>
   tidyr::unnest(text) |>
-  View()
+  dplyr::mutate(text = trimws(text)) |>
+  dplyr::mutate(qty = trimws(stringr::str_extract(text, "^[0-9]{4}\\s|^[0-9]{3}\\s|^[0-9]{2}\\s|^[0-9]\\s"))) |>
+  dplyr::mutate(text = stringr::str_remove(text, "^[0-9]{4}\\s|^[0-9]{3}\\s|^[0-9]{2}\\s|^[0-9]\\s"))  |>
+  dplyr::mutate(qty = ifelse(stringr::str_detect(text, "^[0-9]*$"), text, qty)) |>
+  dplyr::ungroup() |>
+  dplyr::mutate(level_1 = row != dplyr::lag(row) & indent == 1) |>
+  tidyr::replace_na(list(level_1 = TRUE)) |>
+  dplyr::mutate(level_1 = cumsum(level_1)) |>
+  dplyr::relocate(level_1, .before = text) |>
+  dplyr::mutate(type = dplyr::case_when(
+    stringr::str_detect(text, "^[0-9]*$") ~ "Subtotal", 
+    TRUE ~ "Equipment"
+  )) |>
+  dplyr::mutate(indent = ifelse(row == 16, 1, indent)) |>
+  write.csv("data-raw/uk-land-2001.csv", row.names = FALSE)

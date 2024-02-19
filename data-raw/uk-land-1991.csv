@@ -1,0 +1,61 @@
+"level_1","level_2","text","indent","heading","type","some","notes","qty"
+1,0,"MBT",1,"MBT","Subtotal",FALSE,"(1198)",1314
+1,0,"Challenger",1,"MBT","Equipment",FALSE,"(408)",426
+1,0,"Chieftain",1,"MBT","Equipment",TRUE,"(752)",850
+1,0,"Centurion",1,"MBT","Equipment",FALSE,"(38)",38
+2,0,"FV 101 Scorpion",1,"LIGHT TANKS","Equipment",TRUE,"(CFE 256 HACV)",275
+3,0,"FV 107 Scimitar",1,"RECCE","Equipment",TRUE,"",315
+3,0,"Ferret",1,"RECCE","Equipment",TRUE,"",1000
+3,0,"Fox",1,"RECCE","Equipment",TRUE,"",350
+3,0,"FV 601 Saladin",1,"RECCE","Equipment",FALSE,"(CFE HACV)",13
+4,0,"Warrior",1,"AIFV","Equipment",TRUE,"(MCV-80), (465)",510
+4,0,"FV 432 Rarden",1,"AIFV","Equipment",FALSE,"(13)",13
+5,0,"APC",1,"APC","Subtotal",FALSE,"",3590
+5,0,"FV 432",1,"APC","Equipment",TRUE,"(2516), (1240)",2000
+5,0,"FV 603 Saracen",1,"APC","Equipment",TRUE,"(148)",250
+5,0,"FV 103 Spartan",1,"APC","Equipment",TRUE,"(405)",405
+5,0,"AT-105 Saxon",1,"APC","Equipment",TRUE,"(302)",527
+5,0,"313Humber",1,"APC","Equipment",FALSE,"(313)",NA
+6,0,"TOTAL ARTY",1,"TOTAL ARTY","Subtotal",FALSE,"(636)",729
+6,1,"TOWED ARTY",2,"TOWED ARTY","Subtotal",FALSE,"(309)",345
+6,1,"105mm",2,"TOWED ARTY","Equipment",FALSE,"",NA
+6,1,"L-118",2,"TOWED ARTY","Equipment",FALSE,"(180)",212
+6,1,"M-56",2,"TOWED ARTY","Equipment",FALSE,"(52)",52
+6,1,"140mm",2,"TOWED ARTY","Equipment",FALSE,"",NA
+6,1,"55-in",2,"TOWED ARTY","Equipment",FALSE,"(9)",9
+6,1,"155mm",2,"TOWED ARTY","Equipment",FALSE,"",NA
+6,1,"72FH-70",2,"TOWED ARTY","Equipment",FALSE,"(68)",NA
+6,2,"SP ARTY",2,"SP ARTY","Subtotal",FALSE,"(313)",367
+6,2,"105mm",2,"SP ARTY","Equipment",FALSE,"",NA
+6,2,"FV 433 Abbot",2,"SP ARTY","Equipment",FALSE,"",200
+6,2,"SP ARTY",2,"SP ARTY","Equipment",FALSE,"(151)",NA
+6,2,"155mm",2,"SP ARTY","Equipment",FALSE,"",NA
+6,2,"M-109A1",2,"SP ARTY","Equipment",FALSE,"(109)",111
+6,2,"SP-70",2,"SP ARTY","Equipment",FALSE,"(trials)",3
+6,2,"175mm",2,"SP ARTY","Equipment",FALSE,"",NA
+6,2,"M-107",2,"SP ARTY","Equipment",FALSE,"(37)",37
+6,2,"203mm",2,"SP ARTY","Equipment",FALSE,"",NA
+6,2,"M-110",2,"SP ARTY","Equipment",FALSE,"(16), (to be withdrawn)",16
+6,3,"MLRS",2,"MRL 227mm","Equipment",TRUE,"(14)",26
+7,0,"81mm",1,"MORTARS","Subtotal",FALSE,"",NA
+7,0,"MORTARS",1,"MORTARS","Equipment",TRUE,"",500
+8,0,"Lance launchers",1,"SSM","Equipment",FALSE,"(incl 2 in store)",14
+9,0,"El100 Milan",1,"ATGW","Equipment",FALSE,"(incl 72 FV 103 Spartan SP)",NA
+9,0,"Swing/ire",1,"ATGW","Equipment",FALSE,"(FV 102 Striker SP)",48
+9,0,"TOW",1,"ATGW","Equipment",FALSE,"",NA
+10,0,"Carl Gustav",1,"RCL 84mm","Equipment",FALSE,"",NA
+11,0,"Blowpipe",1,"SAM","Subtotal",FALSE,"",NA
+11,0,"Javelin",1,"SAM","Subtotal",FALSE,"",NA
+11,0,"Rapier",1,"SAM","Equipment",TRUE,"(50 SP)",120
+12,0,"BN-2",1,"AIRCRAFT","Equipment",FALSE,"",5
+12,0,"Chipmunk trg",1,"AIRCRAFT","Equipment",FALSE,"",21
+13,0,"Scout",1,"HELICOPTERS","Equipment",FALSE,"",30
+13,0,"SA-341",1,"HELICOPTERS","Equipment",FALSE,"",159
+13,0,"Lynx AH-1/-7/-9",1,"HELICOPTERS","Equipment",FALSE,"",136
+13,0,"A-109",1,"HELICOPTERS","Equipment",FALSE,"",4
+14,0,"Ardennes",1,"LANDING CRAFT","Subtotal",FALSE,"",2
+14,0,"Arromanches log",1,"LANDING CRAFT","Subtotal",FALSE,"",9
+14,0,"Avon",1,"LANDING CRAFT","Equipment",FALSE,"",4
+14,0,"LCVP(",1,"LANDING CRAFT","Equipment",FALSE,"",NA
+14,0,"tugs",1,"LANDING CRAFT","Equipment",FALSE,"",3
+14,0,"other service vessels",1,"LANDING CRAFT","Equipment",FALSE,"",28
